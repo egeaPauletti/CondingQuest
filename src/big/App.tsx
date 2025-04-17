@@ -1,11 +1,11 @@
-// import HistoryModeScreen from "./pages/historyModeScreen/historyModeScreen";
-// import InitialScreen from "./pages/InitialScreen/InitialScreen";
+import ChoseModeScreen from "./pages/choseModeScreen";
+
 
 function App() {
   return (
     <>
-      {/* <HistoryModeScreen /> */}
-      {/* <InitialScreen /> */}
+      <ChoseModeScreen />
+     
     </>
   );
 }
